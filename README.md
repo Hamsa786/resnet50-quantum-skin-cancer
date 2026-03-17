@@ -8,6 +8,12 @@ A hierarchical deep learning system combining ResNet50 architecture with quantum
 
 > Open the notebook in Colab, run all cells, and the Gradio demo will launch automatically. No setup needed!
 
+## 🖼️ Sample Images for Testing
+
+Sample test images are available in the [`Sample Images For Testing`](./Sample%20Images%20For%20Testing/) folder — 3 images from each of the 7 lesion types (21 images total).
+
+Simply download any image and upload it to the Gradio demo to test!
+
 ## 🏆 Model Performance
 
 | Model | Binary Accuracy | 7-Class Accuracy |
